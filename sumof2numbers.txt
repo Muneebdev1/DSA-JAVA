@@ -1,0 +1,5 @@
+start
+input a and b and c
+c = a + b
+output c
+exit
